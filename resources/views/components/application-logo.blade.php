@@ -1,0 +1,1 @@
+<i class="fa fa-plug" aria-hidden="true"></i>
